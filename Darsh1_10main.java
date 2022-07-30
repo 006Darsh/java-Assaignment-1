@@ -8,6 +8,6 @@ public class Darsh1_10main {
         int s = 4;
         System.out.println("Text  : " + text);
         System.out.println("Shift : " + s);
-        System.out.println("Cipher: " + Darsh1_10.encrypt(text, s));
+        System.out.println("Cipher: " + Darsh1_10.encrypt(text, s));//call the encrypt function of Darsh1_10 class file.
     }
 }
