@@ -18,7 +18,7 @@ public class Darsh1_4main {
         {
             arr[i] = s.nextInt();
         }
-        Darsh1_4 d4 = new Darsh1_4(arr,n);
+        Darsh1_4 d4 = new Darsh1_4(arr,n);//calls constructor of class file
         s.close();
     }
 }
