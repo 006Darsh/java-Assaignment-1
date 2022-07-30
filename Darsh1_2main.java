@@ -6,7 +6,7 @@
 // startOz("ozymandias") → "oz"
 // startOz("bzoo") → "z"
 // startOz("oxx") → "o"
-// Git-hub repository: https://github.dev/006Darsh/java-Assaignment-1
+// Git-hub repository: https://github.com/006Darsh/java-Assaignment-1
 import java.util.*;
 public class Darsh1_2main {
     public static void main(String[] args) {
