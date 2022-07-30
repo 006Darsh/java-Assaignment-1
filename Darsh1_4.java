@@ -8,18 +8,18 @@ public class Darsh1_4 {
         {
             if(i==n-1 || i==n-2 || (i==n-3 && a[i]!=1))
             {
-                p=false;
+                p=false;//checkif that as the array is at last 3 places and not got 1 yet the give false value.
                 break;
             }
             else
             {
-                if(a[i] == 1)
+                if(a[i] == 1)//checks if the curent element if 1 or not
                 {
-                    if(a[i+1] == 2)
+                    if(a[i+1] == 2)//if passes for above the checks that currrent element is 2 or not
                     {
-                        if(a[i+2] == 3)
+                        if(a[i+2] == 3)//if passes for above the checks that currrent element is 3 or not if yes its true the gives value true to p.
                         {
-                            p=true;
+                            p=true;//
                             break;
                         }
                     }
