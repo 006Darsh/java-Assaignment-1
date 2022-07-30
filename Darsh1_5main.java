@@ -6,7 +6,7 @@
 // stringMatch("xxcaazz", "xxbaaz") → 3
 // stringMatch("abc", "abc") → 2
 // stringMatch("abc", "axc") → 0
-// Git-hub repository: https://github.dev/006Darsh/java-Assaignment-1
+// Git-hub repository: https://github.com/006Darsh/java-Assaignment-1
 import java.util.*;
 public class Darsh1_5main {
     public static void main(String[] args) {
