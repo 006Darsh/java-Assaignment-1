@@ -17,7 +17,7 @@ public class Darsh1_3main {
         a = s.nextInt();
         System.out.print("\nEnter the second number :");
         b = s.nextInt();
-        Darsh1_3 d3 = new Darsh1_3(a, b);  
+        Darsh1_3 d3 = new Darsh1_3(a, b);  //calling the constructor of the class file.
         s.close();
     }
 }
