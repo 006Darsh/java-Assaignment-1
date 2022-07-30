@@ -9,7 +9,7 @@
 //      1 2 4 8 16 32 16 8 4 2 1
 //   1 2 4 8 16 32 64 32 16 8 4 2 1
 // 1 2 4 8 16 32 64 128 64 32 16 8 4 2 1 
-// Git-hub repository: https://github.dev/006Darsh/java-Assaignment-1
+// Git-hub repository: https://github.com/006Darsh/java-Assaignment-1
 import java.util.*;
 
 public class Darsh1_7main {
