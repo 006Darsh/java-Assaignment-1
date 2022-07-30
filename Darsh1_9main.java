@@ -15,6 +15,6 @@ public class Darsh1_9main {
                 sudoku[i][j] = s.next().charAt(0);
             }
         }
-        System.out.println((Darsh1_9.isValidConfig(sudoku, 9) ? "YES" : "NO"));
+        System.out.println((Darsh1_9.isValidConfig(sudoku, 9) ? "YES" : "NO"));//calls the method isValidConfig of Darsh1_9 class file .
     }
 }
