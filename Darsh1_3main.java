@@ -6,7 +6,7 @@
 // lastDigit(7, 17) → true
 // lastDigit(6, 17) → false
 // lastDigit(3, 113) → true
-// Git-hub repository: https://github.dev/006Darsh/java-Assaignment-1
+// Git-hub repository: https://github.com/006Darsh/java-Assaignment-1
 import java.util.*;
 public class Darsh1_3main {
     public static void main(String args[])
