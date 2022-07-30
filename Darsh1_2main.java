@@ -13,7 +13,7 @@ public class Darsh1_2main {
         Scanner sc=new Scanner(System.in);
         System.out.println("Enter String:");
         String A=sc.nextLine();
-        Darsh1_2 d2 = new Darsh1_2(A);
+        Darsh1_2 d2 = new Darsh1_2(A);//calling constructor of clASS file.
         sc.close();
     }
 }
