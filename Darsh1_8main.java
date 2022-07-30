@@ -40,7 +40,7 @@ public class Darsh1_8main {
         String key;
         System.out.print("Enter the key to the Questions of exam :");
         key = s.next();
-        Darsh1_8 d8 = new Darsh1_8(nstd, nque, ans, key);
+        Darsh1_8 d8 = new Darsh1_8(nstd, nque, ans, key);//calls the constructor of the class file.
         s.close();
     }
 }
