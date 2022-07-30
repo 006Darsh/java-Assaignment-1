@@ -15,6 +15,6 @@ public class Darsh1_5 {
                 count++;
             }
         }
-        System.out.println("stringMatch(\"" + x + "\", \"" + y + "\") --> " + count);
+        System.out.println("stringMatch(\"" + a + "\", \"" + b + "\") --> " + count);
     }
 }
