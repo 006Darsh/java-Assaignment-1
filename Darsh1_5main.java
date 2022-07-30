@@ -15,7 +15,7 @@ public class Darsh1_5main {
         String s1=sc.next();
         System.out.println("Enter second string : ");
         String s2=sc.next();
-        Darsh1_5 d5=new Darsh1_5(s1,s2);
+        Darsh1_5 d5=new Darsh1_5(s1,s2);//calls constructor of class file.
         sc.close();
     }
 }
