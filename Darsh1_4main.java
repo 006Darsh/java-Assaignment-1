@@ -5,7 +5,7 @@
 // array123([1, 1, 2, 3, 1]) → true
 // array123([1, 1, 2, 4, 1]) → false
 // array123([1, 1, 2, 1, 2, 3]) → true
-// Git-hub repository: https://github.dev/006Darsh/java-Assaignment-1
+// Git-hub repository: https://github.com/006Darsh/java-Assaignment-1
 import java.util.*;
 public class Darsh1_4main {
     public static void main(String[] args) {
