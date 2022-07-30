@@ -19,6 +19,6 @@ public class Darsh1_7main {
             Scanner s = new Scanner(System.in);
             System.out.println("Enter the number one less than the number rows you want in pyramid :");
             nrow = s.nextInt();
-            Darsh1_7 d7 = new Darsh1_7(nrow);
+            Darsh1_7 d7 = new Darsh1_7(nrow);//calls the contructor of the class file
         }
 }
